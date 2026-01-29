@@ -1,8 +1,3 @@
-Sure! Here’s a **clean, beginner-friendly README.md** for your project, **excluding input validation** 👇
-You can copy-paste this directly into your GitHub repo.
-
----
-
 # 📚 Student Management System (Java)
 
 ## 📖 About the Project
